@@ -1,9 +1,9 @@
 const contractAddress = "0xaD1Eb4815DD9dBEfBD9749c106e6b2a30de04756"; // Replace with your own contract address
 const chain = 'polygon'; // rinkeby, polygon, or ethereum
 
-const welcome_h1 = "Welcome to the AfrikaGirls NFT Project!!";
+const welcome_h1 = "AfrikaGirls";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The AfrikaGirls NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'The AfrikaGirls is an NFT Project based on 999 Lagos girls.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
